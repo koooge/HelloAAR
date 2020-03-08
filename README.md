@@ -15,6 +15,6 @@ allprojects {
 Add the dependency
 ```
 dependencies {
-	implementation 'com.github.User:Repo:Tag'
+	implementation 'com.github.koooge:HelloAAR:0.1.0'
 }
 ```
